@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo16238
-Fork on GitHub4517
 <h1 align="center">Hi 👋, I'm Nisha Kumari</h1>
 <h3 align="center">A passionate to creating innovative solutions and building captivating web applications from India</h3>
 
